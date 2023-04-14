@@ -1,6 +1,6 @@
 # 3CX Nuker
 
-A complete uninstaller in response to the 3CX desktop app security incident In March/April 2023. At the time of the incident my current work environment found a need to push a mass uninstall of the 3CX desktop app across multiple machines. However, we soon discovered the uninstaller would leave behind multiple residual files and registry entries some of which were the known source of the security incident, ffmpeg.dll and d3dcompiler_47.dll.
+A scripted uninstaller in response to the 3CX desktop app security incident In March/April 2023. At the time of the incident my current work environment found a need to push a mass uninstall of the 3CX desktop app across multiple machines. However, we soon discovered the uninstaller would leave behind multiple residual files and registry entries some of which were the known source of the security incident, ffmpeg.dll and d3dcompiler_47.dll.
 
 The entirety of this script was originally sourced from the following comment on reddit below and reworked from it's state as we found more and more needs to ensure 3CX was truly gone or as the title suggests, nuked;
 
