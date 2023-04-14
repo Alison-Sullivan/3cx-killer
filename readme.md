@@ -12,6 +12,8 @@ The entirety of this script was originally sourced from the following comment on
 <details>
 <summary>3CX</summary>
 
+* March 30th, 2023 - [3CX DesktopApp Security Alert](https://www.3cx.com/community/threads/3cx-desktopapp-security-alert.119951/#post-558907)
+
 * March 30th, 2023 - [3CX DesktopApp Security Alert](https://www.3cx.com/blog/news/desktopapp-security-alert/)
 
 * March 30th, 2023 - [3CX DesktopApp Security Alert - Mandiant Appointed to Investigate](https://www.3cx.com/blog/news/desktopapp-security-alert-updates/)
