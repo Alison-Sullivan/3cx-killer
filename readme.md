@@ -1,4 +1,4 @@
-# 3CX Nuker
+# ☢ 3CX Nuker ☢
 
 A scripted uninstaller in response to the 3CX desktop app security incident in March/April 2023. At the time of the incident my current work environment found a need to push a mass uninstall of the 3CX desktop app across multiple machines. While attempting this it soon came to our attention that the 3CX desktop app uninstaller would leave behind multiple residual files and registry entries of which some were the known threat soucre, ffmpeg.dll and d3dcompiler_47.dll.
 
