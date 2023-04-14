@@ -33,18 +33,20 @@ The entirety of this script was originally sourced from the following comment on
 
 <details>
 <summary>(ISC)²</summary>
-<br>
+<p>
 
 * April 14th, 2023 - [Supply Chain Risk Management (SCRM) – The Recipe for Resilience](https://community.isc2.org/t5/Industry-News/Supply-Chain-Risk-Management-SCRM-The-Recipe-for-Resilience/m-p/58497)
+</p>
 </details>
 
 
 
 <details>
 <summary>Bitdefender</summary>
-<br>
+<p>
 
 * March 31st, 2023 - [Technical Advisory: Software Supply Chain Attack Against 3CX Desktop App](https://businessinsights.bitdefender.com/technical-advisory-software-supply-chain-attack-against-3cx-desktop-app)
+</p>
 </details>
 
 
@@ -65,16 +67,18 @@ The entirety of this script was originally sourced from the following comment on
 
 <details>
 <summary>CrowdStrike</summary>
-<br>
+<p>
 
 * March 29th, 2023 - [CrowdStrike Falcon Platform Detects and Prevents Active Intrusion Campaign Targeting 3CXDesktopApp Customers](https://www.crowdstrike.com/blog/crowdstrike-detects-and-prevents-active-intrusion-campaign-targeting-3cxdesktopapp-customers/)
+</p>
 </details>
 
 
 
 <details>
 <summary>CISA</summary>
-<br>
+<p>
 
 * March 30rd, 2023 - [Supply Chain Attack Against 3CXDesktopApp](https://www.cisa.gov/news-events/alerts/2023/03/30/supply-chain-attack-against-3cxdesktopapp)
+</p>
 </details>
